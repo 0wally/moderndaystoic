@@ -1,0 +1,2 @@
+# moderndaystoic
+Stock picking coding 
